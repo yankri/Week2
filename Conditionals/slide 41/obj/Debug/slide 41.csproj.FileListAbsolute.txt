@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Documents\Week 2\Conditionals\slide 41\bin\Debug\slide 41.exe.config
+C:\Users\WeCanCodeIT\Documents\Week 2\Conditionals\slide 41\bin\Debug\slide 41.exe
+C:\Users\WeCanCodeIT\Documents\Week 2\Conditionals\slide 41\bin\Debug\slide 41.pdb
+C:\Users\WeCanCodeIT\Documents\Week 2\Conditionals\slide 41\obj\Debug\slide 41.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Week 2\Conditionals\slide 41\obj\Debug\slide 41.exe
+C:\Users\WeCanCodeIT\Documents\Week 2\Conditionals\slide 41\obj\Debug\slide 41.pdb

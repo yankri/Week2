@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Documents\Week 2\gpa calculator\gpa calculator\bin\Debug\gpa calculator.exe.config
+C:\Users\WeCanCodeIT\Documents\Week 2\gpa calculator\gpa calculator\bin\Debug\gpa calculator.exe
+C:\Users\WeCanCodeIT\Documents\Week 2\gpa calculator\gpa calculator\bin\Debug\gpa calculator.pdb
+C:\Users\WeCanCodeIT\Documents\Week 2\gpa calculator\gpa calculator\obj\Debug\gpa calculator.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Week 2\gpa calculator\gpa calculator\obj\Debug\gpa calculator.exe
+C:\Users\WeCanCodeIT\Documents\Week 2\gpa calculator\gpa calculator\obj\Debug\gpa calculator.pdb

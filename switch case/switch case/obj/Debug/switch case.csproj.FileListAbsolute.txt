@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Documents\Week 2\switch case\switch case\bin\Debug\switch case.exe.config
+C:\Users\WeCanCodeIT\Documents\Week 2\switch case\switch case\bin\Debug\switch case.exe
+C:\Users\WeCanCodeIT\Documents\Week 2\switch case\switch case\bin\Debug\switch case.pdb
+C:\Users\WeCanCodeIT\Documents\Week 2\switch case\switch case\obj\Debug\switch case.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Week 2\switch case\switch case\obj\Debug\switch case.exe
+C:\Users\WeCanCodeIT\Documents\Week 2\switch case\switch case\obj\Debug\switch case.pdb

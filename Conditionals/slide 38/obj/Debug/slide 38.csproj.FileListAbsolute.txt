@@ -1,0 +1,5 @@
+C:\Users\WeCanCodeIT\Documents\Week 2\Conditionals\slide 38\bin\Debug\slide 38.exe.config
+C:\Users\WeCanCodeIT\Documents\Week 2\Conditionals\slide 38\bin\Debug\slide 38.exe
+C:\Users\WeCanCodeIT\Documents\Week 2\Conditionals\slide 38\bin\Debug\slide 38.pdb
+C:\Users\WeCanCodeIT\Documents\Week 2\Conditionals\slide 38\obj\Debug\slide 38.exe
+C:\Users\WeCanCodeIT\Documents\Week 2\Conditionals\slide 38\obj\Debug\slide 38.pdb

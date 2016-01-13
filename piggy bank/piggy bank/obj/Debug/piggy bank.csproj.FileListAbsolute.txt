@@ -1,0 +1,5 @@
+C:\Users\WeCanCodeIT\Documents\Week 2\piggy bank\piggy bank\bin\Debug\piggy bank.exe.config
+C:\Users\WeCanCodeIT\Documents\Week 2\piggy bank\piggy bank\bin\Debug\piggy bank.exe
+C:\Users\WeCanCodeIT\Documents\Week 2\piggy bank\piggy bank\bin\Debug\piggy bank.pdb
+C:\Users\WeCanCodeIT\Documents\Week 2\piggy bank\piggy bank\obj\Debug\piggy bank.exe
+C:\Users\WeCanCodeIT\Documents\Week 2\piggy bank\piggy bank\obj\Debug\piggy bank.pdb
